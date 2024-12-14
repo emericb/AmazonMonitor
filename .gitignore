@@ -116,3 +116,9 @@ yarn.lock
 
 # typescript build
 built/
+.idea/AmazonMonitor.iml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.babelrc
